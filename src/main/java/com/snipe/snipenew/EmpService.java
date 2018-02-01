@@ -31,5 +31,6 @@ public class EmpService {
 		{
 			EmpRepository.save(empRecord);
 		}
+		
 	}  
 
